@@ -2,13 +2,19 @@
 
 Webentwicklerin und Softwareingenieurin mit sechs Jahren Berufserfahrung in Softwareentwicklung und Projektleitung im Gesundheitsamt. Mich begeistert die Umsetzung responsiver und benutzerfreundlicher Webanwendungen.
 
-- Bachelorabschluss in Computertechnik (Ingenieurwesen), Universität Aleppo
-- Weiterbildung „Full-Stack-Webentwicklung“ mit CPUX-Zertifikat,2024
-- Java-Kurs am Hadara-Institut,2025
-- WEITERE KURSE
-• C# — Syrian Computer Society, 2011
-• SQL Server 2008 — Computer Training Center, 2010
-• Oracle9i — Somer Computer Center, 2007
+## 🎓 Studium & Weiterbildung
+
+### Studium
+- **Bachelor Computertechnik (Ingenieurwesen)**, Universität Aleppo
+
+### Weiterbildung
+- **2025:** Java-Kurs, Hadara-Institut
+- **2024:** Full-Stack-Webentwicklung (CPUX-Zertifikat), WBS Training
+
+### Weitere Kurse
+- **2011:** C#, Syrian Computer Society
+- **2010:** SQL Server 2008, Computer Training Center
+- **2007:** Oracle9i, Somer Computer Center
 
 
 <!--
