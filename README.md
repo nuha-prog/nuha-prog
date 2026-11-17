@@ -3,8 +3,13 @@
 Webentwicklerin und Softwareingenieurin mit sechs Jahren Berufserfahrung in Softwareentwicklung und Projektleitung im Gesundheitsamt. Mich begeistert die Umsetzung responsiver und benutzerfreundlicher Webanwendungen.
 
 - Bachelorabschluss in Computertechnik (Ingenieurwesen), Universität Aleppo
-- Weiterbildung „Full-Stack-Webentwicklung“ mit CPUX-Zertifikat
-- Java-Kurs am Hadara-Institut
+- Weiterbildung „Full-Stack-Webentwicklung“ mit CPUX-Zertifikat,2024
+- Java-Kurs am Hadara-Institut,2025
+- WEITERE KURSE
+• C# — Syrian Computer Society, 2011
+• SQL Server 2008 — Computer Training Center, 2010
+• Oracle9i — Somer Computer Center, 2007
+
 
 <!--
 **nuha-prog/nuha-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
